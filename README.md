@@ -63,11 +63,12 @@ MULTIPLE LINEAR REGRESSION MODEL; APPLICATION, EVALUATION AND PREDICTION WITH SU
 
  	y = "CO2 Emissions(g/km)"
   
-    Independent variables:
+        Independent variables:
     
-  X= "Engine Size(L)", "Cylinders", "Fuel Consumption City (L/100 km)", "Fuel Consumption Hwy (L/100 km)"
+        X= "Engine Size(L)", "Cylinders", "Fuel Consumption City (L/100 km)", "Fuel Consumption Hwy (L/100 km)"
 
-3-	Data has been splitted as train and test sets. Regression model has been applied to training data set and prediction has been made on X_test data.
+3-	Data has been splitted as train and test sets. Regression model has been applied to training data set and prediction has been 
+        made on X_test data.
 
 4-	To evaluate the model, from sklearn.metrics , r2_score, mean_squared_error, mean_absolute_error were imported.
 
@@ -106,19 +107,19 @@ All independent variables are positively related to “y” (when they increase 
 
 •	predict the CO2 emission of a car, where:
 
-        Engine Size(L) =  2.4
+Engine Size(L) =  2.4
 	
- 	Cylinders =  4 
+Cylinders =  4 
   
-	Fuel Consumption City (L/100 km) = 11.2 
+Fuel Consumption City (L/100 km) = 11.2 
  
-        Fuel Consumption Hwy (L/100 km) = 7.7
+Fuel Consumption Hwy (L/100 km) = 7.7
 	
-	(predictedCO2 = regr_model.predict([[2.4, 4, 11.2, 7.7]]))
+(predictedCO2 = regr_model.predict([[2.4, 4, 11.2, 7.7]]))
  
-	predictedCO2=  217.4 
+predictedCO2=  217.4 
  
-	actual CO2 Emissions = 221 g/km
+actual CO2 Emissions = 221 g/km
 
 
 The Line of Linear Regression
