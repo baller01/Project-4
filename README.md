@@ -60,13 +60,14 @@ MULTIPLE LINEAR REGRESSION MODEL; APPLICATION, EVALUATION AND PREDICTION WITH SU
 1-	From “sklearn” library for predictive data analysis, linear_model, train_test_split and LinearRegression have been imported.
 
 2-	
-	Dependent variable:
- 
-       y = "CO2 Emissions(g/km)"
-
-        Independent variables:
+        Dependent variable is:
 	
-       X= "Engine Size(L)", "Cylinders", "Fuel Consumption City (L/100 km)", "Fuel Consumption Hwy (L/100 km)"
+ 	y = "CO2 Emissions(g/km)"
+  
+        Independent variables are:
+
+        X= "Engine Size(L)", "Cylinders", "Fuel Consumption City (L/100 km)", "Fuel Consumption Hwy (L/100 km)"
+
       	
 
 3-	Data has been splitted as train and test sets. Regression model has been applied to training data set and prediction has been 
