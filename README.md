@@ -59,7 +59,8 @@ MULTIPLE LINEAR REGRESSION MODEL; APPLICATION, EVALUATION AND PREDICTION WITH SU
 
 1-	From “sklearn” library for predictive data analysis, linear_model, train_test_split and LinearRegression have been imported.
 
-2-	Dependent variable:
+2-	   
+        Dependent variable:
 
  	y = "CO2 Emissions(g/km)"
   
