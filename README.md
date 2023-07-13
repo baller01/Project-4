@@ -62,7 +62,7 @@ MULTIPLE LINEAR REGRESSION MODEL; APPLICATION, EVALUATION AND PREDICTION WITH SU
 2-	
 	Dependent variable:
  
-       y = "CO2 Emissions(g/km)
+       y = "CO2 Emissions(g/km)"
 
         Independent variables:
 	
