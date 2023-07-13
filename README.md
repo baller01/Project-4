@@ -82,28 +82,43 @@ MULTIPLE LINEAR REGRESSION MODEL; APPLICATION, EVALUATION AND PREDICTION WITH SU
 
 •	MSE and MAE:  The difference between actual and predicted is small.
 
-Coefficients: [5.75078492 6.65332716 6.8317655 6.48691586]
 
-Intercept: 50.52369559592012
+	Coefficients: [5.75078492 6.65332716 6.8317655 6.48691586]
+
+	Intercept: 50.52369559592012
+ 
 
 •	Regression Equation:
+
 y = X1*5.75 + X2*6.66 + X3*6.83 + X4*6.49 + 50.52
+
 X1 = Engine Size(L)
+
 X2 = Cylinders
+
 X3 = Fuel Consumption City (L/100 km)
+
 X4 = Fuel Consumption Hwy (L/100 km)
+
 y = CO2 Emissions(g/km)
 
 All independent variables are positively related to “y” (when they increase “y” also increases) and intercept is also positive. 
 
 •	predict the CO2 emission of a car, where:
-              Engine Size(L) =  2.4
+
+        Engine Size(L) =  2.4
+	
  	Cylinders =  4 
-Fuel Consumption City (L/100 km) = 11.2 
-              Fuel Consumption Hwy (L/100 km) = 7.7
-(predictedCO2 = regr_model.predict([[2.4, 4, 11.2, 7.7]]))
-predictedCO2=  217.4 
-actual CO2 Emissions = 221 g/km
+  
+	Fuel Consumption City (L/100 km) = 11.2 
+ 
+        Fuel Consumption Hwy (L/100 km) = 7.7
+	
+	(predictedCO2 = regr_model.predict([[2.4, 4, 11.2, 7.7]]))
+ 
+	predictedCO2=  217.4 
+ 
+	actual CO2 Emissions = 221 g/km
 
 
 The Line of Linear Regression
