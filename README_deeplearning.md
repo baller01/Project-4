@@ -18,8 +18,10 @@ Deep learning using neural network was used.
 - Evaluating the accuracy of the model
 
 ## Results
-The model had an accuracy of 0.99  which implies possibility of overfitting due to high correlation
+The model had accuracy of 98.2% using 1 layer, 20 neurons and 50epochs
 Some columns were which were dependant and highly corelated were removed. These include 'Make', 'Model', 'Fuel Consumption Comb (L/100 km)' and 'Fuel Consumption Comb (mpg)'
+Optimization was done by binning the "Transmission" layer and increasing layers to 2. 
+The accuracy of the optimized model was 98.2%
 
 ## Conclusion:
 The model was successful as a binary classifier to identify a car as a higher emitter or not. 
