@@ -56,13 +56,13 @@ Premium Gasoline and Regular Gasoline were the most commonly used fuels among th
 
 # 2. Unsupervised Machine Learning
 
-## Task Definition: 
+## 2.1 Task Definition: 
 In this study we investigate the Carbon Emissions in Canada by car properties by and check if we can create clusters by using unsupervised machine learning k-means method.
 
-## Tool Used:
+## 2.2 Tool Used:
 We used sklearn libirary together with hvplot and pandas.
 
-## Process Steps:
+## 2.3 Process Steps:
 1- Identifing database data types
 
 <img width="206" alt="image" src="https://github.com/baller01/Project-4/assets/118228120/07e6e7ab-7242-4468-b2d1-e19452a5e9c4">
