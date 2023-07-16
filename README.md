@@ -14,7 +14,7 @@ Average CO2 emissions (g/km): 250.59
 Note: The average CO2 emissions are above the normal range and require high attention. The European Commission's target by 2024 is to reach emission levels of 95g CO2/km for cars and 147g CO2/km for vans.
 ## Highest and Lowest Polluting Vehicles
 
-!(https://github.com/baller01/Project-4/assets/123272517/4ada47af-875c-4b8f-b674-7720fb56443a)
+![Screenshot 2023-07-16 at 20 56 45](https://github.com/baller01/Project-4/assets/123272517/4ada47af-875c-4b8f-b674-7720fb56443a)
 
 ![Screenshot 2023-07-16 at 20 56 45](https://github.com/baller01/Project-4/assets/123272517/1b80d57c-672b-4fd8-b9d3-d7258ddbb84e)
 
