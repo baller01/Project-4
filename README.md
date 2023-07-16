@@ -226,7 +226,33 @@ Residuals randomly scatter around “0”, which means linear regression model i
 ## Conclusion:
 Using unsupervised Machine Learning K-means model, we can categorise optimum 3 clusters based on the relationship among “Fuel Consumption City” and “Fuel Consumption Highway” with “CO2 Emission”.
 
-## Conclusions
+# 4. Deep Learning
+
+## 4.1 Task Definition: 
+Carbon emmissions in motor vehicles that is above 255g/km is considered as high. The objective of this task is to create a predictive model, a binary classifier, that predicts high or not high. 
+
+## 4.2 Tool Used:
+Deep learning using neural network was used. 
+
+## 4.3 Process Steps:
+- Load data from csv file
+- preprocessing
+- splitting the data into X_test, X_train, y_test, y_train
+- create model
+- compiling the model
+- Train: fitting the model into the data
+- Evaluating the accuracy of the model
+
+## 4.4 Results
+The model had accuracy of 98.2% using 1 layer, 20 neurons and 50epochs
+Some columns were which were dependant and highly corelated were removed. These include 'Make', 'Model', 'Fuel Consumption Comb (L/100 km)' and 'Fuel Consumption Comb (mpg)'
+Optimization was done by binning the "Transmission" layer and increasing layers to 2. 
+The accuracy of the optimized model was 98.2%
+
+## Conclusion:
+The model was successful as a binary classifier to identify a car as a higher emitter or not. 
+
+# Final Conclusions
 - Exploring the data through “Tableu” we identified the relationships between car properties and “CO2 Emissions”, such as identifying average CO2 Emission according to car model or finding most polluting fuel types..etc
 - Using similarities in data we have created sample clusters according to CO Emissions and Fuel Consumptions. Considering the purpose of an analysis more clusters can be done by changing the variables in the data.
 - We used Canada’s cars and CO2 emissions data and our models have created valuable outcomes with high accuracy. So, they can be used for making predictions in the same topic in different data sets with similar accuracy.
