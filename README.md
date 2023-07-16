@@ -251,7 +251,7 @@ The accuracy of the optimized model was 98.2%
 
 The model was successful as a binary classifier to identify a car as a higher emitter or not. 
 
-CONCLUSIONS
+# CONCLUSIONS
 
 In our project as well as exploring the data through “Tableu” we used unsupervised Machine Learning for clustering and supervised Machine Learning and Deep Learning for making predictions.
 
@@ -283,7 +283,7 @@ We haven’t dropped the outliners deliberately because every data has its impor
 
 We did not include Fuel Consumption Comb (L/100 km) and Fuel Consumption Comb (mpg) columns to our models since they are combination of Fuel Consumption City and Hwy features (55% city, 45% Hwy).
 	
-RECOMMENDATIONS
+# RECOMMENDATIONS
 
 In our project as well as exploring the data through “Tableu” we wanted to use supervised, unsupervised Machine Learning and Deep Learning as tools. They all created valuable outcomes to solve real life problems and make predictions related to “CO2 Emissions and cars’ properties” so they can be used for making predictions in different data sets.
 
