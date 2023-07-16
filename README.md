@@ -12,7 +12,7 @@ Presenting machine learning models to predict the carbon emissions from known pr
 - Multiple linear regression using Supervised Machine Learning
 - Binary clasification using deep learning
 
-# Tableau Insights: CO2 Emissions Analysis
+## 1.Tableau Insights: CO2 Emissions Analysis
 
 ![Screenshot 2023-07-16 at 20 04 53](https://github.com/baller01/Project-4/assets/123272517/08c7dd75-4ac1-4ffc-8d04-42121f3c535f)
 
