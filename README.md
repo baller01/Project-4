@@ -10,7 +10,7 @@ Presenting machine learning models to predict the carbon emissions from known pr
 ## Activities carried out
 - Presentation and visusualization of availed data on tableau
 - Clustering through unsupervised learning
-- Multiple regression using Supervised Machine Learning
+- Multiple linear regression using Supervised Machine Learning
 - Binary clasification using deep learning
 
 ## Conclusions
