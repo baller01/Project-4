@@ -1,6 +1,5 @@
 # Project-4
-##Project Title
-Prediction of Carbon Emissions in Canada by car properties
+##Prediction of Carbon Emissions in Canada by car properties
 
 ## Description and objectives
 To Relationship between car properties and carbon emission.
