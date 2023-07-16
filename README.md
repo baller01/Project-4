@@ -85,6 +85,8 @@ We used sklearn libirary together with hvplot and pandas.
 
 <img width="335" alt="image" src="https://github.com/baller01/Project-4/assets/118228120/7735b26a-dc33-422d-b908-8344d71918b2">
 
+Using unsupervised Machine Learning K-means model, we can categorise optimum 3 clusters based on the relationship among “Fuel Consumption City” and “Fuel Consumption Highway” with “CO2 Emission”.
+
 # 3. MULTIPLE LINEAR REGRESSION ANALYSIS WITH SUPERVISED MACHINE LEARNING
 
 In order to apply a model to analyse and make prediction to “CO2_Emissions_Canada.csv” data (7385 rows (non null) * 12 columns) , firstly some statistical informations have been identified to get first insight of data via mean, standart deviation, min- max, and percentiles.
@@ -223,8 +225,6 @@ Residuals randomly scatter around “0”, which means linear regression model i
 
 ![image](https://github.com/baller01/Project-4/assets/121508137/d8080275-cf6f-4bfd-9227-70ede721418e)
 
-## Conclusion:
-Using unsupervised Machine Learning K-means model, we can categorise optimum 3 clusters based on the relationship among “Fuel Consumption City” and “Fuel Consumption Highway” with “CO2 Emission”.
 
 # 4. Deep Learning
 
