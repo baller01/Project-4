@@ -12,7 +12,7 @@
 - Multiple linear regression using Supervised Machine Learning
 - Binary clasification using deep learning
 
-## 1. Tableau Insights: CO2 Emissions Analysis LINK TO DASHBOARD => [click here] (https://public.tableau.com/app/profile/bhavdeep.singh6611/viz/Project-4Co2Emissions/CO2EmissionsAnalytics)
+## 1. Tableau Insights: CO2 Emissions Analysis LINK TO DASHBOARD => [click here](https://public.tableau.com/app/profile/bhavdeep.singh6611/viz/Project-4Co2Emissions/CO2EmissionsAnalytics)
 
 ![Screenshot 2023-07-16 at 20 04 53](https://github.com/baller01/Project-4/assets/123272517/08c7dd75-4ac1-4ffc-8d04-42121f3c535f)
 
