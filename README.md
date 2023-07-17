@@ -291,4 +291,8 @@ In our project as well as exploring the data through “Tableu” we wanted to u
 
 However, during Logistics Regression modelling in Deep Learning we have realized that the task is not too complex for deep learning since it reaches the high accuracy with min epoch and even without in need of a second layer. Since deep learning is about non - linearity and complexity, we think that this is due to the highly linear nature of our data and high correlations between dependent and independent variables. Thus, instead of using Deep Learning, supervised Machine Learning application can be well enough for this type of linear model – data relationship.
 
+# References
+
+- Database => https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles
+- CO2 emissions thresholds insights => www.ageco.co.uk 
 
