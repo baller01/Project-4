@@ -293,6 +293,6 @@ However, during Logistics Regression modelling in Deep Learning we have realized
 
 # References
 
-- Database => https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles
-- CO2 emissions thresholds insights => www.ageco.co.uk 
+- Database => [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
+- CO2 emissions thresholds insights => [Ageco](www.ageco.co.uk)
 
